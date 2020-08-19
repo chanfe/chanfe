@@ -45,14 +45,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
-
 <!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
-
----
 
 <!--### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->

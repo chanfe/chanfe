@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felix 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a simple [MERN Template](https://github.com/chanfe/mern-template)!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Get a Full time job!
+- 🔭 I’m currently working on [random stock generator](https://github.com/chanfe/random_stock)!
+- 🌱 I’m currently learning how a 3d printer works.
+- 🥅 2020 Goals: Get outside of my confort zone!
 - ⚡ Fun fact: I love board games!
 
 ### Connect with me:

@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felix 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on [random stock generator](https://github.com/chanfe/random_stock)!
+- 🔭 I’m currently working on [finance website](https://github.com/chanfe/finance-website)!
 - 🌱 I’m currently learning how a 3d printer works.
+- 🌱 I’m currently learning how to cook too!
 - 🥅 2020 Goals: Get outside of my confort zone!
 - ⚡ Fun fact: I love board games!
 
